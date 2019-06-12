@@ -13,6 +13,7 @@
         <module>netty</module>
         <module>reactor</module>
         <module>hikaricp</module>
+        <module>spring</module>
     </modules>
 
 
